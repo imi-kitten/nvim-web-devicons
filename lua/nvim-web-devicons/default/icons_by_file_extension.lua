@@ -153,6 +153,7 @@ return {
   ["gemspec"]       = { icon = "", color = "#701516", cterm_color = "52",  name = "Gemspec"                    },
   ["gif"]           = { icon = "", color = "#A074C4", cterm_color = "140", name = "Gif"                        },
   ["git"]           = { icon = "", color = "#F14C28", cterm_color = "196", name = "GitLogo"                    },
+  ["gitlab"]        = { icon = "", color = "#E24329", cterm_color = "196", name = "GitlabCI"                   },
   ["glb"]           = { icon = "", color = "#FFB13B", cterm_color = "214", name = "BinaryGLTF"                 },
   ["gleam"]         = { icon = "", color = "#FFAFF3", cterm_color = "219", name = "Gleam"                      },
   ["gnumakefile"]   = { icon = "", color = "#6D8086", cterm_color = "66",  name = "Makefile"                   },
