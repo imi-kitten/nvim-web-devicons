@@ -20,6 +20,7 @@ return {
   [".gitconfig"]                 = { icon = "", color = "#F54D27", cterm_color = "196", name = "GitConfig"               },
   [".gitignore"]                 = { icon = "", color = "#F54D27", cterm_color = "196", name = "GitIgnore"               },
   [".gitlab-ci.yml"]             = { icon = "", color = "#E24329", cterm_color = "196", name = "GitlabCI"                },
+  ["*.gitlab-ci.yml"]            = { icon = "", color = "#E24329", cterm_color = "196", name = "GitlabCI"                },
   [".gitmodules"]                = { icon = "", color = "#F54D27", cterm_color = "196", name = "GitModules"              },
   [".gtkrc-2.0"]                 = { icon = "", color = "#FFFFFF", cterm_color = "231", name = "GTK"                     },
   [".gvimrc"]                    = { icon = "", color = "#019833", cterm_color = "28",  name = "Gvimrc"                  },

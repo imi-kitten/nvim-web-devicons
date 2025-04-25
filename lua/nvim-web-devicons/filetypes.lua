@@ -72,7 +72,6 @@ return {
   ["gitcommit"] = "commit_editmsg",
   ["gitconfig"] = ".gitconfig",
   ["gitignore"] = ".gitignore",
-  ["gitlab"] = "gitlab",
   ["glb"] = "glb",
   ["go"] = "go",
   ["godot"] = "godot",
