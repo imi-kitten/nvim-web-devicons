@@ -153,6 +153,7 @@ return { -- this file is generated from lua/nvim-web-devicons/default/icons_by_f
   ["gemspec"]       = { icon = "", color = "#701516", cterm_color = "52",  name = "Gemspec"                    },
   ["gif"]           = { icon = "", color = "#6B4D83", cterm_color = "96",  name = "Gif"                        },
   ["git"]           = { icon = "", color = "#B5391E", cterm_color = "160", name = "GitLogo"                    },
+  ["gitlab-ci.yml"] = { icon = "", color = "#AA321F", cterm_color = "124", name = "GitlabCI"                   },
   ["glb"]           = { icon = "", color = "#80581E", cterm_color = "94",  name = "BinaryGLTF"                 },
   ["gleam"]         = { icon = "", color = "#553A51", cterm_color = "53",  name = "Gleam"                      },
   ["gnumakefile"]   = { icon = "", color = "#526064", cterm_color = "59",  name = "Makefile"                   },
